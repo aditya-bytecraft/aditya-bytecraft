@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm **Aditya Mishra**, 
 a final-year B.Tech Computer Science student at 
-KIIT University and an aspiring **Data Analyst**
+KIIT University and an aspiring **Software Developer**
 and **Full-Stack Developer**.
 
 ## 👀 I’m interested in:
