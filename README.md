@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @aditya-bytecraft
+# 👋 Hi, I’m Aditya Mishra 
 
 Welcome to my GitHub! I'm **Aditya Mishra**, 
 a final-year B.Tech Computer Science student at 
