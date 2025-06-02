@@ -6,11 +6,11 @@ KIIT University and an aspiring **Data Analyst**
 and **Full-Stack Developer**.
 
 ## 👀 I’m interested in:
-- Data Analytics and Business Intelligence  
-- Machine Learning and Artificial Intelligence  
-- Web Development (MERN Stack)  
-- Problem Solving and DSA  
-- Real-world tech solutions for social impact  
+- Data Analytics and DSA.  
+- Machine Learning and Artificial Intelligence. 
+- Web Development.  
+- Problem Solving and DSA.  
+- Real-world tech solutions for social impact.  
 
 ## 🌱 I’m currently learning:
 - Java and Data Structures  
