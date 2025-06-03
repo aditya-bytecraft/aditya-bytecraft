@@ -1,37 +1,93 @@
-# 👋 Hi, I’m Aditya Mishra 
+#Welcome to My GitHub Profile! Hi there! I'm **[Your Name]**, a passionate developer, Al enthusiast, and cloud practitioner. I love building scalable Al applications, exploring LLM architectures, and optimizing machine learning models.
 
-Welcome to my GitHub! I'm **Aditya Mishra**, 
-a final-year B.Tech Computer Science student at 
-KIIT University and an aspiring **Software Developer**
-and **Full-Stack Developer**.
+## Tech Stack
 
-## 👀 I’m interested in:
-- Data Analytics and DSA.  
-- Machine Learning and Artificial Intelligence. 
-- Web Development.  
-- Problem Solving and DSA.  
-- Real-world tech solutions for social impact.  
+### Programming & Core Concepts
 
-## 🌱 I’m currently learning:
-- Java and Data Structures  
-- React.js, Node.js  
-- CRON Jobs and Backend Automation  
-- Deployment and DevOps basics  
-- Improving my English communication skills  
+<p align="left">
 
-## 👾 I’m looking to collaborate on:
-- Data-driven projects (Dashboards, Predictive Models)  
-- Real-life web apps (job portals, college utilities, hostel systems)  
-- Open source contributions related to analytics or backend systems  
+<img
 
-## 📫 How to reach me:
-- 📧 Email: [adityamishra8852@gmail.com](mailto:adityamishra8852@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/aditya-mishra-63aa70278](https://www.linkedin.com/in/aditya-mishra-63aa70278)
+src="https://img.shields.io/badge /Python-3776AB?style=for-the-badge &logo=python&logoColor=white" />
 
-## 😄 Pronouns: 
-He/Him
+<img
 
-## ⚡ Fun fact: 
-I'm a **national-level judo medalist**,
-and I believe the discipline from sports 
-complements the logic and patience needed in tech!
+src="https://img.shields.io/badge /Flask-000000?style=for-the-badge& logo-flask&logoColor=white" />
+<img
+
+src="https://img.shields.io/badge /SQL-4479A1?style=for-the-badge& logo=mysql&logoColor=white" />
+
+<img
+
+src="https://img.shields.io/badge /Vector%20DB-005571?style=for-the -badge&logo-redis&logoColor=white"
+
+/>
+
+</p>
+
+### Cloud & DevOps
+
+<p align="left">
+
+<img
+
+src="https://img.shields.io/badge /AWS-232F3E?style=for-the-badge& logo-amazon-aws&logoColor=white" />
+
+<img
+
+src="https://img.shields.io/badge /Google%20Cloud-4285F4?style=for -the-badge&logo-google-cloud& logoColor=white" />
+
+<img
+src="https://img.shields.io/badge /Azure-0078D4?style=for-the-badge& logo-microsoft-azure&logoColor= white" />
+
+<img
+
+src="https://img.shields.io/badge /Docker-2496ED?style=for-the-badge &logo=docker&logoColor=white" />
+
+<img
+
+src="https://img.shields.io/badge /Kubernetes-326CE5?style=for-the -badge&logo-kubernetes&logoColor= white" />
+
+</p>
+
+### Al & Machine Learning
+
+<p align="left">
+
+<img
+
+src="https://img.shields.io/badge /Machine%20Learning-FF6F00?style= for-the-badge&logo=mlflow& logoColor=white" />
+
+<img
+
+src="https://img.shields.io/badge
+/Deep%20Learning-FF0000?style=for -the-badge&logo=pytorch&logoColor= white" />
+
+<img
+
+src="https://img.shields.io/badge /TensorFlow-FF6F00?style=for-the -badge&logo-tensorflow&logoColor= white" />
+
+<img
+
+src="https://img.shields.io/badge /PyTorch-EE4C2C?style=for-the-badge &logo-pytorch&logoColor=white" /> </p>
+
+### Large Language Models (LLMS)
+
+<p align="left">
+
+<img
+
+src="https://img.shields.io/badge /GPT-005571?style=for-the-badge& logo=openai&logoColor=white" />
+
+<img
+
+src="https://img.shields.io/badge /BERT-1F425F?style=for-the-badge&
+logo=openai&logoColor=white" />
+
+<img
+
+src="https://img.shields.io/badge /BERT-1F425F?style=for-the-badge& logo=google&logoColor=white" />
+
+<img
+
+src="https://img.shields.io/badge /LLaMA-FF4500?s
